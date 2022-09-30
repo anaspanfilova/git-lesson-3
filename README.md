@@ -7,4 +7,4 @@ Git - это одна из реализаций распределённых с�
 
 hgjrhgrjkrg
 
-jkjhrgkrehgjkrhg
+jkjhrgkrehgjkrhg не привет
